@@ -1,5 +1,11 @@
 # "Fashion visual search system using simple multimodal representation generated from web- scraped fashion listings"
 
+```diff
+-ONLY code files are shared because datasets are confidential!!!
+```
+
+
+
 
 ## 1. Project background
 
